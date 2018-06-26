@@ -12,3 +12,7 @@ footer {
 .counterSpan {
 	font-weight: bold;
 }
+
+.catName {
+	font-style: italic;
+}

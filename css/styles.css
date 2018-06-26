@@ -1,7 +1,14 @@
+body {
+	font-family: 'Roboto';
+}
 footer {
 	text-align: center;
 }
 
 .main {
 	font-size: 1rem;
+}
+
+.counterSpan {
+	font-weight: bold;
 }

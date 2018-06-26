@@ -1,6 +1,8 @@
 class Cat {
-	constructor(){
+	constructor(name, url){
 		this.clickCount = 0;
+		this.name = name;
+		this.url = url;
 	}
 
 	// Code to increment the clicks on the cat
